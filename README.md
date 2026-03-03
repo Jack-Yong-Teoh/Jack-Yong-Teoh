@@ -12,7 +12,7 @@ I am a Fullstack Software Engineer with 3 years of hands-on experience building 
 Currently pursuing a **Master of Software Engineering (Software Technology)** at **Universiti Malaya** (Expected July 2027). My studies and research focus on:
 
 * 💡 **Pending Dissertation Ideas**, feel free to reach out if you wish to collab on something incredible
-* 🏛️ **Architecting Software Systems** & Framework-Based Design.
+* 🏛️ **Architecting Software Systems**, Framework-Based Design, Software Project Management
 * 🌿 **Lead author** of *"Energy-Efficient AI Image Generation through Selective Similarity-Aware Caching"*.
 * 📱 **Developer** of *"FitBro"*, an AI-powered diet consultant mobile application.
 
