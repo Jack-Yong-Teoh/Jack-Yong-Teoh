@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 Fullstack Software Engineer
-I am a Fullstack Software Engineer with 3 years of hands-on experience building production-grade web applications. I focus on clean architecture, operational stability, and creating seamless engineering standards across the entire stack. Working & Study Full-Time at the same time :)
+I am a Fullstack Software Engineer with 3 years of hands-on experience building production-grade web applications. I focus on clean architecture, operational stability, and creating seamless engineering standards across the entire stack. Working & Studying Full-Time at the same time :)
 
 ---
 
